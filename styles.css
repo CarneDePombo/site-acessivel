@@ -28,6 +28,11 @@ section {
     font-weight: 600;
 }
 
+.nav-img{
+    width: 20%;
+    height: 10%;
+}
+
 .inicio-fundo {
     /* aula 3 */
     background-image: url('img/4965007.jpg');
